@@ -3,11 +3,11 @@
 
 
 <div style="background-color:rgb(200, 205, 209); padding: 10px; margin-bottom: 10px;">
-  <a href="#kyrie" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Kyrie</a>
-  <a href="#gloria" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Gloria</a>
-  <a href="#credo" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Credo</a>
-  <a href="#sanctus" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Sanctus</a>
-    <a href="#nationalShrine" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">National Shrine Prayer</a>
+  <a href="#kyrie" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Kyrie</a> <br>
+  <a href="#gloria" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Gloria</a> <br>
+  <a href="#credo" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Credo</a> <br>
+  <a href="#sanctus" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Sanctus</a> <br>
+    <a href="#nationalShrine" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">National Shrine Prayer</a> <br>
   <a href="#lords-prayer" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Lord's Prayer</a>
 </div>
 
