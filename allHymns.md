@@ -1,4 +1,4 @@
-# All Hymns 2025
+# All Hymns & Prayers 2025
 
 
 
@@ -7,6 +7,7 @@
   <a href="#gloria" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Gloria</a>
   <a href="#credo" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Credo</a>
   <a href="#sanctus" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Sanctus</a>
+    <a href="#nationalShrine" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">National Shrine Prayer</a>
   <a href="#lords-prayer" style="margin-right: 30px; text-decoration: none; color: #333; font-weight: bold; font-size: 1.3em;">Lord's Prayer</a>
 </div>
 
@@ -20,22 +21,39 @@ This page contains all hymns sung at 11 am mass at St Mary of Angel's Church, We
 ## Gloria
 ![Gloria](pictures/Gloria_XI.svg)
 
----
+
 
 ## Credo
 ![Credo](pictures/Credo_III.svg)
 
----
+
+## National Shrine Prayer
+<div align="center">
+
+E te Atua, Creator of heaven and earth,  
+Source of all life, giver of all that is good, <br>
+We pray for Aotearoa New Zealand <br>
+And for all who come to her shores and make it their home. <br>
+We recall with gratitude our forebears in the Faith,<br>
+Who dedicated this country to the care of Mary, <br>
+Mother of God, assumed into heaven. <br>
+Pour out your Spirit upon us as we seek to respond to you, <br>
+Bringing your peace and harmony to this sacred land. <br>
+May we continue to praise you as we carry the Good News <br>
+of Jesus Christ to our brothers and sisters. <br>
+We make this prayer through Christ, our Lord. Amen. <br>
+Mary, assumed into heaven; pray for us.
+
+</div>
+
 
 ## Sanctus
 ![Sanctus](pictures/Sanctus_XIV.svg)
 
----
 
 ## Agnus Dei
 ![Agnus Dei](pictures/AgnusDei_XIII.svg)
 
----
 
 ## Lord's Prayer
 ![Lord's Prayer](pictures/Pater.svg)
